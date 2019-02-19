@@ -1,0 +1,10 @@
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\bin\Debug\CakeСonfigurator.exe.config
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\bin\Debug\CakeСonfigurator.exe
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\bin\Debug\CakeСonfigurator.pdb
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.Properties.Resources.resources
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.csproj.GenerateResource.cache
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.csproj.CoreCompileInputs.cache
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.exe
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.pdb
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.Form_Configurator.resources
+C:\Users\lebed\source\repos\CakeСonfigurator\CakeСonfigurator\obj\Debug\CakeСonfigurator.csprojAssemblyReference.cache
